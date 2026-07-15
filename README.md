@@ -72,17 +72,6 @@ python sudoku_solver.py
 
 ---
 
-# 📂 Project Structure
-
-```text
-Sudoku-Solver/
-│
-├── sudoku_solver.py
-└── README.md
-```
-
----
-
 # 🧠 Algorithm
 
 The application uses the **Backtracking Algorithm**, which:
